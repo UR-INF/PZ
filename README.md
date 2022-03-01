@@ -27,7 +27,7 @@ imie i nazwisko z oznaczeniem lidera, pełniona rola, zakres czynności/odpowied
 - Panel administratora 
   - Główne narzędzie administratorów systemu umożliwiające wykonanie wszystkich czynności potrzebnych do zarządzania systemem np. dodawanie, edycja, usuwanie użytkowników, tworzenie i modyfikacja grup, zarządzanie innymi administratorami. 
 - Panel innego użytkownika 
-  - Lista z aktualnymi pracownikami
+  - Funkcjonalność 1
   - ... kolejna funkcjonalność
 ...
 - Zakładka raportów 
