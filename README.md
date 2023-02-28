@@ -1,6 +1,6 @@
 Programowanie zespołowe laboratorium _**X**_ grupa _**Y**_
 
-# Dokumentacja projetu: **System do zarządzania zadaniami ....**
+# Dokumentacja projetu: **System do zarządzania zadaniami ....(w hurtowni, firmie kurierskiej, księgarni, serwisie samochodowym itp)**
 
 ## Zespoł projetowy:
 imie i nazwisko z oznaczeniem lidera, pełniona rola, zakres czynności/odpowiedzialność 
